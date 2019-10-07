@@ -1,0 +1,9 @@
+pytest==3.8.0
+progress==1.4
+autograd==1.2
+matplotlib==3.0.2
+matplotlib2tikz==0.7.4
+numpy==1.15.1
+scipy==1.1.0
+GitPython==2.1.11
+dill==0.3.0
