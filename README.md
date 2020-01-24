@@ -44,7 +44,8 @@ To run controller evalulation see scripts/eval_controller.py
     python scripts/run.py double_cartpole_known
 ```
 results are in _results/
-Nonlinear Trajectory Optimizationnonlinear trajectory optimization
+
+#### Baseline Nonlinear Trajectory Optimization
 ```bash
     python scripts/baseline_experiments.py {1}_{2}
 ```
