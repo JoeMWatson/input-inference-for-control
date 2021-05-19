@@ -4,8 +4,8 @@ Approximate Inference for Stochastic Optimal Control
 [comment]: <> (![Trajectory Optimization]&#40;assets/dcp_10s.gif&#41;)
 
 [comment]: <> (![Covariance Control]&#40;assets/p_cc_10s.gif&#41;)
-<img src="https://github.com/JoeMWatson/input-inference-for-control-private/blob/master/assets/dcp_10s.gif" width="400"/>
-<img src="https://github.com/JoeMWatson/input-inference-for-control-private/blob/master/assets/p_cc_10s.gif" width="400"/>
+<img src="https://github.com/JoeMWatson/input-inference-for-control/blob/master/assets/dcp_10s.gif" width="400"/>
+<img src="https://github.com/JoeMWatson/input-inference-for-control/blob/master/assets/p_cc_10s.gif" width="400"/>
 
 [![arXiv](https://img.shields.io/badge/stat.ML-arXiv%3A2006.08437-B31B1B.svg)](https://arxiv.org/abs/1910.03003)
 [![arXiv](https://img.shields.io/badge/stat.ML-arXiv%3A2006.08437-B31B1B.svg)](https://arxiv.org/abs/2103.06319)
@@ -44,7 +44,7 @@ To optimize pendulum swing-up with cubature quadrature, run
 ```
 the output directory results should look like this
 
-<img src="https://github.com/JoeMWatson/input-inference-for-control-private/blob/master/assets/pendulum_msg_iter_0_199.png" width="600"/>
+<img src="https://github.com/JoeMWatson/input-inference-for-control/blob/master/assets/pendulum_msg_iter_0_199.png" width="600"/>
 
 
 Experiments
