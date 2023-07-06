@@ -2,7 +2,7 @@ gym==0.15.4
 dataclasses
 autograd
 dill==0.3.2
-scipy==1.5.0
+scipy==1.10.0
 matplotlib
 tikzplotlib
 tqdm==4.46.1
